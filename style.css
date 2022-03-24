@@ -1,0 +1,18 @@
+body { 
+	background-color:white;
+	color:#50595c;
+	font-family:Roboto, 'Segoe UI', Tahoma, sans-serif;
+	font-size: normal;		
+}
+#form {
+	background-color:#FAEBD7;
+	width:230px;
+	padding:15px;
+	box-sizing: border-box;
+	border-radius:10px;
+	text-align:center;
+}
+.form-center {
+	display:flex;
+	justify-content: center;
+}
